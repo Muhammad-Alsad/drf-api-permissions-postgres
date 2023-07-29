@@ -8,4 +8,6 @@
     -pip install psycopg2-binary
 
 
-#### Testing 
+### Testing 
+    - cd to the file.py
+    - pytest
